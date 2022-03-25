@@ -19,7 +19,7 @@
 class Translation:
     START_TEXT = (
         "Hi!\n"
-        "please read the TnC before proceeding: https://t.me/SpEcHlDe/889\n"
+        "please read the TnC before proceeding: https://t.me/GaniyevUz/55\n"
         "Thank you for using me 😬\n"
         "Enter your Telegram Phone Number, "
         "to get the APP-ID from my.telegram.org\n\n"
@@ -32,15 +32,10 @@ class Translation:
 
         "this code is only used for the purpose of "
         "getting the APP ID from my.telegram.org\n"
-        "if you do not trust this bot dev, "
-        "please host this bot yourself\n"
-        "by opening https://github.com/SpEcHiDe/MyTelegramOrgRoBot and "
-        "clicking on the Pink Button\n\n"
-
         "/start at any stage to re-enter your details"
     )
     BEFORE_SUCC_LOGIN = "recieved code. Scarpping web page ..."
-    ERRED_PAGE = "something wrongings. failed to get app id. \n\n@SpEcHlDe"
+    ERRED_PAGE = "something wrongings. failed to get app id. \n\n@JahongirGaniyev"
     CANCELLED_MESG = "Bye! Please re /start the bot conversation"
     IN_VALID_CODE_PVDED = (
         "sorry, "
